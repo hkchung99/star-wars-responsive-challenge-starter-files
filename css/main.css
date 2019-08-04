@@ -1,0 +1,22 @@
+nav {
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	background-color: rgb(230, 167, 41);
+}
+
+img {
+	width: 100%;
+}
+
+.row_1 {
+	padding-top: 150px;
+}
+
+.card {
+	border: 1px solid rgb(230, 230, 230);
+}
+
+.desc {
+	padding-left: 20px;
+}
